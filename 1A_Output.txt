@@ -1,0 +1,99 @@
+&C	['comedies', 'tragedies']
+
+&c.	['tragedies', 'comedies', 'histories']
+
+&c.'	['tragedies']
+
+&c.,	['tragedies', 'histories', 'comedies']
+
+&c]	['comedies', 'histories', 'tragedies']
+
+'	['tragedies', 'histories', 'comedies', 'poems']
+
+''All	['poems']
+
+''Among	['poems']
+
+''And,	['poems']
+
+''But,	['poems']
+
+''Gamut'	['comedies']
+
+''How	['poems']
+
+''Lo,	['poems']
+
+''Look	['poems']
+
+''My	['poems']
+
+''Now	['poems']
+
+''O,	['poems']
+
+''Od's	['comedies']
+
+''The	['poems']
+
+''Tis	['poems', 'comedies']
+
+''When	['poems']
+
+''tis	['comedies']
+
+''twas	['comedies']
+
+'--O	['tragedies']
+
+'?	['tragedies']
+
+'A	['tragedies', 'comedies', 'histories', 'poems']
+
+'ARTEMIDORUS.'	['tragedies']
+
+'Above	['comedies']
+
+'Achilles	['tragedies']
+
+'Ad	['tragedies']
+
+'Adam	['tragedies']
+
+'Adieu,	['tragedies']
+
+'Adieu,'	['poems']
+
+'Affectionate	['tragedies']
+'
+After	['comedies']
+
+'Against	['comedies', 'histories']
+
+'Agrippa,	['tragedies']
+
+'Ah,	['tragedies', 'comedies']
+
+'Aio	['histories']
+
+'Air,'	['poems']
+
+'Alack,	['tragedies']
+
+'Alas,	['tragedies', 'histories', 'comedies', 'poems']
+
+'Alas,'	['comedies']
+
+'All	['comedies', 'poems']
+
+'Alla	['comedies']
+
+'Amen'	['tragedies', 'poems']
+
+'Amen'?	['tragedies']
+
+'Amen,'	['tragedies']
+
+'An	['tragedies', 'comedies']
+
+'And	['comedies', 'tragedies', 'poems']

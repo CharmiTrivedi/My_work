@@ -1,0 +1,99 @@
+keenedged 	{'histories': 1}
+	
+justborne 	{'histories': 1}
+	
+helicane 	{'comedies': 5}
+	
+grimaces 	{'glossary': 1}
+	
+considered 	{'tragedies': 1, 'comedies': 4, 'histories': 1}
+	
+plumepluckd 	{'histories': 1}
+	
+bangd 	{'tragedies': 1}
+	
+oermaster 	{'tragedies': 1}
+	
+sending 	{'tragedies': 5, 'histories': 4, 'comedies': 2}
+	
+roy 	{'histories': 2}
+	
+whither 	{'poems': 1, 'tragedies': 20, 'histories': 29, 'comedies': 40}
+	
+tappd 	{'histories': 1}
+	
+outsport 	{'tragedies': 1}
+	
+appelons 	{'histories': 1}
+	
+newbegot 	{'histories': 1}
+	
+slandered 	{'comedies': 2}
+	
+chameleon 	{'comedies': 2, 'histories': 1}
+	
+appal 	{'tragedies': 2}
+	
+chamberdoor 	{'poems': 1, 'tragedies': 2, 'histories': 2}
+	
+chambermaids 	{'tragedies': 2}
+	
+redeems 	{'tragedies': 1, 'comedies': 2}
+	
+spider 	{'tragedies': 2, 'comedies': 3, 'histories': 4}
+	
+unmade 	{'tragedies': 1}
+	
+kingbecoming 	{'tragedies': 1}
+	
+justles 	{'tragedies': 1}
+	
+rubs 	{'tragedies': 3, 'comedies': 1, 'histories': 2}
+	
+impotent 	{'tragedies': 2, 'comedies': 1, 'histories': 1}
+	
+bavin 	{'glossary': 1, 'histories': 1}
+	
+seven 	{'tragedies': 17, 'comedies': 31, 'histories': 24}
+	
+diseasemy 	{'comedies': 1}
+	
+trespasses 	{'tragedies': 2, 'comedies': 1}
+	
+thinly 	{'poems': 1, 'tragedies': 2}
+	
+wrest 	{'glossary': 1, 'tragedies': 2, 'comedies': 2, 'histories': 2}
+	
+falsespeaking 	{'poems': 1}
+	
+groats 	{'tragedies': 1, 'histories': 2, 'comedies': 2}
+	
+ocean 	{'poems': 8, 'tragedies': 10, 'histories': 9, 'comedies': 5}
+	
+mais 	{'histories': 1}
+	
+chin 	{'poems': 5, 'tragedies': 10, 'comedies': 7, 'histories': 6}
+	
+oars 	{'glossary': 1, 'tragedies': 1, 'comedies': 2}
+	
+pigeonliverd 	{'tragedies': 1}
+	
+quagmire 	{'tragedies': 1, 'histories': 1}
+	
+blunter 	{'poems': 1}
+	
+circumference 	{'comedies': 2, 'histories': 1}
+	
+nature 	{'glossary': 4, 'poems': 20, 'tragedies': 192, 'histories': 47, 'comedies': 104}
+	
+indignity 	{'tragedies': 2, 'comedies': 4}
+	
+rhodes 	{'tragedies': 6}
+	
+kid 	{'glossary': 1}
+	
+unarms 	{'tragedies': 1}
+	
+meteors 	{'comedies': 1, 'histories': 5}
+	
+miniature 	{'glossary': 1}
